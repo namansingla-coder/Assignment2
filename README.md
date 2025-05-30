@@ -26,7 +26,7 @@ A feature-rich and responsive To-Do List application built with **React** and **
 
 ---
 
-## 🛠Installation
+## Installation
 
 ```bash
 git clone https://github.com/namansingla-coder/Assignment2.git
