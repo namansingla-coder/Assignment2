@@ -1,16 +1,16 @@
-# 📝 React To-Do List App
+# React To-Do List App
 
 A feature-rich and responsive To-Do List application built with **React** and **Tailwind CSS** that allows users to:
 
-- ✅ Add, remove, and mark tasks as complete
-- 🕒 Set due dates (with validation for past dates)
-- 🔍 Search, filter (All / Completed / Pending), and sort tasks by name or due date
-- ⚠️ Show warnings for overdue pending tasks
-- 💾 Persist data using `localStorage`
+- Add, remove, and mark tasks as complete
+- Set due dates (with validation for past dates)
+- Search, filter (All / Completed / Pending), and sort tasks by name or due date
+- ⚠Show warnings for overdue pending tasks
+- Persist data using `localStorage`
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Add / Edit Tasks** with title and due date (past dates not allowed)
 - **Mark as Complete / Pending**
@@ -26,11 +26,11 @@ A feature-rich and responsive To-Do List application built with **React** and **
 
 ---
 
-## 🛠️ Installation
+## 🛠Installation
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
-cd react-todo-list
+git clone https://github.com/namansingla-coder/Assignment2.git
+cd Assignment2
 npm install
 npm start
 ```
@@ -39,7 +39,7 @@ Open in browser: http://localhost:3000
 
 ⸻
 
-✅ Testing Guide
+Testing Guide
 
 This app is manually testable via the browser.
 
@@ -66,5 +66,26 @@ This app is manually testable via the browser.
 
 ⸻
 
-📁 Folder Structure
-`
+Folder Structure
+```bash
+src/
+│
+├── components/
+│   ├── TaskForm.js
+│   ├── TaskItem.js
+│   └── TaskList.js
+│
+├── App.js
+├── index.js
+└── index.css
+```
+---
+## Technologies Used
+	React
+	Tailwind CSS
+	React Icons
+	HTML5, CSS3, JavaScript (ES6)
+---
+## Author
+	Naman Singla - (https://www.linkedin.com/in/namansingla7642/)
+
