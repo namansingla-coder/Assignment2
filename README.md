@@ -39,7 +39,7 @@ Open in browser: http://localhost:3000
 
 ⸻
 
-Testing Guide
+## Testing Guide
 
 This app is manually testable via the browser.
 
@@ -66,7 +66,7 @@ This app is manually testable via the browser.
 
 ⸻
 
-Folder Structure
+## Folder Structure
 ```bash
 src/
 │
