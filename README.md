@@ -87,5 +87,5 @@ src/
 	HTML5, CSS3, JavaScript (ES6)
 ---
 ## Author
-	Naman Singla - (https://www.linkedin.com/in/namansingla7642/)
+	Naman Singla - https://www.linkedin.com/in/namansingla7642/
 
