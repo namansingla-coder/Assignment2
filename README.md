@@ -43,26 +43,26 @@ Open in browser: http://localhost:3000
 
 This app is manually testable via the browser.
 
-    1.	Add Task
-    •	Click + Add Task, enter a title and due date, click Add
-    •	Submitting without title shows alert
-    •	Choosing past date shows alert
-    2.	Edit Task
-    •	Click ✏️ icon → modify task and save
-    3.	Complete / Incomplete
-    •	Toggle checkbox → task gets marked completed/incomplete
-    4.	Delete Task
-    •	Click 🗑️ icon to delete
-    5.	Search
-    •	Search bar filters tasks by title
-    6.	Filter
-    •	Use dropdown to view All / Completed / Pending tasks
-    7.	Sort
-    •	Use sorting dropdown to sort by name or due date
-    8.	Overdue Warning
-    •	Tasks with due date older than today and not completed show warning
-    9.	Persistence
-    •	Refreshing the page keeps task data via localStorage
+    1. Add Task
+    	• Click + Add Task, enter a title and due date, click Add
+    	• Submitting without title shows alert
+    	• Choosing past date shows alert
+    2. Edit Task
+    	• Click ✏️ icon → modify task and save
+    3. Complete / Incomplete
+    	• Toggle checkbox → task gets marked completed/incomplete
+    4. Delete Task
+    	• Click 🗑️ icon to delete
+    5. Search
+    	• Search bar filters tasks by title
+    6. Filter
+    	• Use dropdown to view All / Completed / Pending tasks
+    7. Sort
+    	• Use sorting dropdown to sort by name or due date
+    8. Overdue Warning
+    	• Tasks with due date older than today and not completed show warning
+    9. Persistence
+    	• Refreshing the page keeps task data via localStorage
 
 ⸻
 
